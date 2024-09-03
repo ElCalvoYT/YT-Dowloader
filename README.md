@@ -9,7 +9,7 @@ A simple, standalone application for downloading YouTube videos in the highest a
 
 ## Downloading the Executable
 
-1. **Visit the [Releases](https://github.com/ElCalvoYT/yt-downloader/releases) Page**:
+1. **Visit the [Releases](https://github.com/ElCalvoYT/YT-Dowloader/releases) Page**:
    - Navigate to the Releases section of this repository to download the latest version of the executable.
 
 2. **Download the ZIP File**:
